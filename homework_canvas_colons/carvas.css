@@ -1,0 +1,11 @@
+
+.footer {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .col {
+    float: left;
+    width: 33.33%;
+    height: 100px;
+  }
